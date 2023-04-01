@@ -11,10 +11,10 @@
 
 
 ## Documentation
-[Telecom Customer Churn Analysis PBI Dashboard.pdf](https://github.com/Tank619/xyz/files/11128556/Telecom.Customer.Churn.Analysis.PBI.Dashboard.pdf)
+[Telecom Customer Churn Analysis PPT.pdf](https://github.com/rahul6193/Telecom-Customer-Churn-Analysis/files/11129075/Telecom.Customer.Churn.Analysis.PPT.pdf)
 
+[Telecom Customer Churn Analysis PBI Dashboard.pdf](https://github.com/rahul6193/Telecom-Customer-Churn-Analysis/files/11129076/Telecom.Customer.Churn.Analysis.PBI.Dashboard.pdf)
 
-[Telecom Customer Churn Analysis PPT.pdf](https://github.com/Tank619/xyz/files/11128557/Telecom.Customer.Churn.Analysis.PPT.pdf)
 
 
 
