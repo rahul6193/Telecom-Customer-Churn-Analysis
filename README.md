@@ -35,5 +35,5 @@
 
 
 
-## Technologies Used
+## Tools Used
 ![pbi-to-excel-2-plan-de-travail-1-copie-21-1](https://user-images.githubusercontent.com/71078584/229275014-bbb9fb64-d230-4b7b-ae7a-c141878110b7.png)
